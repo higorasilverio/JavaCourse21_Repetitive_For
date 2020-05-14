@@ -9,10 +9,7 @@ public class Main {
 		
 		Locale.setDefault(Locale.US);
 		Scanner scanner = new Scanner(System.in);
-		
-		System.out.println("*** Divide a selected number of times ***");
-		System.out.println();
-		
+				
 		System.out.print("Enter the quantity of divisions: ");
 		int control = scanner.nextInt();
 		System.out.println();
